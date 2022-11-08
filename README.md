@@ -1,16 +1,15 @@
-### Hi there 👋
+**Welcome back everyone!**
 
-<!--
-**JoseErnestoOnGithub/JoseErnestoOnGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I design logo remakes 🌎
 
-Here are some ideas to get you started:
+### I build malware with C++ 🐞🐴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I love operating systems 🪟🍎🐧
+
+### I use Windows 10 🪟
+
+### I live in Brazil 🇧🇷
+
+### I speak Portuguese and English 🇧🇷🇺🇸
+
+_See ya!_

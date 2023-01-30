@@ -6,7 +6,7 @@
 
 ### I love operating systems 🪟🍎🐧
 
-### I use Windows 10 🪟
+### I use Windows 11 🪟
 
 ### I live in Brazil 🇧🇷
 

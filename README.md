@@ -2,7 +2,6 @@
 
 ### I design logo remakes 🌎
 
-### I build malware with C++ 🐞🐴
 
 ### I love operating systems 🪟🍎🐧
 

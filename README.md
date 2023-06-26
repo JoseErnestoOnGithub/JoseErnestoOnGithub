@@ -2,7 +2,6 @@
 
 ### I design logo remakes 🌎
 
-
 ### I love operating systems 🪟🍎🐧
 
 ### I use Windows 10* 🪟

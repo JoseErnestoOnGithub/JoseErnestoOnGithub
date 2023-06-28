@@ -8,6 +8,6 @@
 
 ### I speak Portuguese and English 🇧🇷🇺🇸
 
-### I live in Pindorama, SP. 🏙
+### I live in Pindorama, SP 🏙
 
 _See ya!_

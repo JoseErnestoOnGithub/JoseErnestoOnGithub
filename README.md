@@ -1,6 +1,6 @@
 **Welcome back everyone!**
 
-### I design logo remakes 🌎
+### <s>I design logo remakes 🌎</s>
 
 ### I love operating systems 🪟🍎🐧
 

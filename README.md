@@ -6,8 +6,8 @@
 
 ### I use Windows 10* 🪟
 
-### I live in Brazil 🇧🇷
-
 ### I speak Portuguese and English 🇧🇷🇺🇸
+
+### I live in Pindorama, SP. 🏙
 
 _See ya!_

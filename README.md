@@ -1,10 +1,10 @@
 **Welcome back everyone!**
 
-### <s>I design logo remakes 🌎</s>
+### I design logo remakes 🌎
 
 ### I love operating systems 🪟🍎🐧
 
-### I use Windows 10* 🪟
+### I use Windows 11 🪟
 
 ### I speak Portuguese and English 🇧🇷🇺🇸
 

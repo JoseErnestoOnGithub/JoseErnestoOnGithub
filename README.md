@@ -5,7 +5,7 @@
 
 ### I love operating systems 🪟🍎🐧
 
-### I use Windows 11 🪟
+### I use Windows 11 (build 22000.466)🪟
 
 ### I speak Portuguese and English 🇧🇷🇺🇸
 

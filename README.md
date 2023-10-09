@@ -1,7 +1,6 @@
 
 # Welcome back everyone!
 
-<strong>UPDATE: This document will soon be reconstructed in HTML, CSS and JS, instead of Markdown.</strong>
 
 ### <s>I design logo remakes 🌎</s> (not anymore)
 

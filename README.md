@@ -22,7 +22,7 @@
 **Optical Drives:** N/A <br/>
 **Audio:** Realtek High Definition Audio <br/>
 **Peripherals:** N/A <br/>
-**Network:** Connected through:	TP-Link Wireless USB Adapter <br/>
+**Network:** <br/> Connected through:	TP-Link Wireless USB Adapter <br/>
 IP Address:	192.168.0.106 <br/>
 Subnet mask:	255.255.255.0 <br/>
 Gateway server:	192.168.0.1 <br/>

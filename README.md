@@ -1,16 +1,17 @@
 
-## Welcome back everyone!
+## Welcome, fellas!
 
 
-### <s>I design logo remakes 🌎</s> (not anymore)
-
-### I love operating systems 🪟🍎🐧
+### I love Windows 🪟
 
 ### I use Windows 11 (build 22000.466)🪟
 
 ### I speak Portuguese and English 🇧🇷🇺🇸
 
 ### I live in Pindorama, SP 🏙
+
+### My computer has VMware Workstation installed <img src="https://i.ibb.co/522rf98/icons8-old-vmware-logo-32.png" alt="icons8-old-vmware-logo-32" border="0">
+
 
 **My computer's specifications:** <br/>
 **Operating System:** Windows 11 Pro 64-bit <br/>

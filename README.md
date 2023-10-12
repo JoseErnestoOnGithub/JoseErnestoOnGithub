@@ -1,6 +1,7 @@
 
 ## Welcome, fellas!
 
+**UPDATE:** Unfortunately, i will cease using GitHub next month due to an annoying 2FA requirement.
 
 ### I love Windows 🪟
 

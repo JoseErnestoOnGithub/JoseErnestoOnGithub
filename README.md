@@ -1,7 +1,7 @@
 
 ## Welcome, fellas!
 
-**UPDATE:** Unfortunately, i will cease using GitHub in 2 months due to an annoying 2FA requirement.
+**UPDATE:** Unfortunately, i will cease using GitHub on March 21, 2024, due to an annoying 2FA requirement.
 
 ### I love Windows 🪟
 

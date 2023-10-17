@@ -1,15 +1,15 @@
 
 ## Welcome, fellas!
 
-**UPDATE:** Unfortunately, i will cease using GitHub next month due to an annoying 2FA requirement.
+**UPDATE:** Unfortunately, i will cease using GitHub in 2 months due to an annoying 2FA requirement.
 
 ### I love Windows 🪟
 
-### I use Windows 11 (build 22000.466)🪟
+### I use Windows 11 22H2 🪟
 
 ### I speak Portuguese and English 🇧🇷🇺🇸
 
-### I live in Pindorama, SP 🏙
+### I live in Pindorama, São Paulo, Brazil 🏙
 
 ### My computer has VMware Workstation installed <img src="https://i.ibb.co/522rf98/icons8-old-vmware-logo-32.png" alt="icons8-old-vmware-logo-32" border="0">
 

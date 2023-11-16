@@ -1,11 +1,10 @@
 
-## Welcome, fellas!
+## Welcome!
 
-**UPDATE:** Unfortunately, i will cease using GitHub on March 21, 2024, due to an annoying 2FA requirement.
 
 ### I love Windows 🪟
 
-### I use Windows 11 22H2 🪟
+### I use Windows 11 22H2 (build 22621.2428) 🪟
 
 ### I speak Portuguese and English 🇧🇷🇺🇸
 
@@ -14,7 +13,7 @@
 ### My computer has VMware Workstation installed <img src="https://i.ibb.co/522rf98/icons8-old-vmware-logo-32.png" alt="icons8-old-vmware-logo-32" border="0">
 
 
-**My computer's specifications:** <br/>
+**My PC's specifications:** <br/>
 **Operating System:** Windows 11 Pro 64-bit <br/>
 **CPU:** Intel Core i3 10100 @ 3.60GHz <br/> Comet Lake 14nm Technology <br/>
 **RAM:** 8,00GB Single-Channel DDR4 @ 1331MHz (19-19-19-43) <br/>
@@ -36,5 +35,10 @@ Adapter Type:	IEEE 802.11 wireless<br/>
 NetBIOS over TCP/IP:	Enabled via DHCP<br/>
 NETBIOS Node Type:	Hybrid node<br/>
 
+
+**Stats:**
+![JoseErnestoOnGitHub's Stats](https://github-readme-stats.vercel.app/api?username=JoseErnestoOnGitHub&theme=default&show_icons=true&hide_border=true&count_private=true)
+![JoseErnestoOnGitHub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseErnestoOnGitHub&theme=default&hide_border=true)
+![JoseErnestoOnGitHub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseErnestoOnGitHub&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ***See you again soon!***

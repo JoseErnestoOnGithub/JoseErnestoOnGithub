@@ -36,7 +36,7 @@ NetBIOS over TCP/IP:	Enabled via DHCP<br/>
 NETBIOS Node Type:	Hybrid node<br/>
 
 
-**Stats:**
+**Stats:** <br/>
 ![JoseErnestoOnGitHub's Stats](https://github-readme-stats.vercel.app/api?username=JoseErnestoOnGitHub&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![JoseErnestoOnGitHub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseErnestoOnGitHub&theme=default&hide_border=true)
 ![JoseErnestoOnGitHub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseErnestoOnGitHub&theme=default&show_icons=true&hide_border=true&layout=compact)

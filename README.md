@@ -1,6 +1,7 @@
 
 ## Howdy!
 
+**IMPORTANT REMINDER:** Next year, i will no longer use GitHub.
 
 ### I love Windows and Linux 🪟🐧
 

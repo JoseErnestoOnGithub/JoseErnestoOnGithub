@@ -1,8 +1,8 @@
 
-## Welcome!
+## Howdy!
 
 
-### I love Windows 🪟
+### I love Windows and Linux 🪟🐧
 
 ### I use Windows 11 22H2 (build 22621.2428) 🪟
 
@@ -11,6 +11,8 @@
 ### I live in Pindorama, São Paulo, Brazil 🏙
 
 ### My computer has VMware Workstation installed <img src="https://i.ibb.co/522rf98/icons8-old-vmware-logo-32.png" alt="icons8-old-vmware-logo-32" border="0">
+
+### I love to code
 
 
 **My PC's specifications:** <br/>
@@ -41,4 +43,5 @@ NETBIOS Node Type:	Hybrid node<br/>
 ![JoseErnestoOnGitHub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseErnestoOnGitHub&theme=default&hide_border=true)
 ![JoseErnestoOnGitHub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseErnestoOnGitHub&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-***See you again soon!***
+**DinosaurMod is the best Scratch mod ever!** <br/><br/>
+*Goodbye!*

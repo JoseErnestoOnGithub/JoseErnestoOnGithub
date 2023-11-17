@@ -43,6 +43,7 @@ NETBIOS Node Type:	Hybrid node<br/>
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseErnestoOnGithub&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **DinosaurMod is the best Scratch mod ever!** <br/><br/>
 *Goodbye!*

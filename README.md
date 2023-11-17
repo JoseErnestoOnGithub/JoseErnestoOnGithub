@@ -39,11 +39,13 @@ NetBIOS over TCP/IP:	Enabled via DHCP<br/>
 NETBIOS Node Type:	Hybrid node<br/>
 
 
-**Stats:** <br/>
+**Stats:&ast;** <br/>
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseErnestoOnGithub&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoseErnestoonGithub)](https://git.io/streak-stats)
 
+&ast; Data might be inaccurate <br/><br/>
 **DinosaurMod is the best Scratch mod ever!** <br/><br/>
 *Goodbye!*

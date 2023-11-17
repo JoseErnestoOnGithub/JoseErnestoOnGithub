@@ -12,7 +12,7 @@
 
 ### My computer has VMware Workstation installed <img src="https://i.ibb.co/522rf98/icons8-old-vmware-logo-32.png" alt="icons8-old-vmware-logo-32" border="0">
 
-### I love to code
+### I love coding &lt;/&gt;
 
 
 **My PC's specifications:** <br/>

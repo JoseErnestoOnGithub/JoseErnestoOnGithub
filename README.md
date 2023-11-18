@@ -1,7 +1,7 @@
 
 ## Howdy!
 
-**IMPORTANT REMINDER:** Next year, i will no longer use GitHub.
+**IMPORTANT REMINDER:** I will no longer use GitHub in 2024.
 
 ### I love Windows and Linux 🪟🐧
 

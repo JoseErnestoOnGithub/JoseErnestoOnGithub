@@ -3,6 +3,8 @@
 
 **IMPORTANT REMINDER:** I will no longer use GitHub in 2024.
 
+I didn't push any new commits recently, but now it is.
+
 ### I love Windows and Linux 🪟🐧
 
 ### I use Windows 11 22H2 (build 22621.2428) 🪟
